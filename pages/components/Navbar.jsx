@@ -62,7 +62,7 @@ const Navbar = () => {
 
             <Link href="/#skills ">
               <li className="ml-10  text-md uppercase hover:border-b">
-                Skills{" "}
+                Skills
               </li>
             </Link>
             <Link href="/#project">
@@ -111,7 +111,7 @@ const Navbar = () => {
             <div className="my-4">
               <p className="w-[85%] md:w-[90%] py-4 text-xl">
                 {" "}
-                Let's Build And Deploy
+                Let&apos;s Build And Deploy
               </p>
             </div>
           </div>

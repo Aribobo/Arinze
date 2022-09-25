@@ -28,7 +28,7 @@ const Property = () => {
           <p>
            Hey Hey sorry!! the buttons below(Demo and Code) is not functional as Iphoundit is under production
             <br />
-          Keep visiting as it's on track.
+          Keep visiting as it&apos;s on track.
           </p>
           <br />
           <button className="px-8 py-2 mt-4 mr-8 ">Demo</button>

@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const Skills = () => {
   return (
@@ -13,9 +14,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+                <Image
                   className=" "
-                  src="html.png"
+                  src="/html.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -30,9 +31,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="css.png"
+                  src="/css.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -46,9 +47,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="javascript.png"
+                  src="/javascript.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -62,9 +63,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="php.png"
+                  src="/php.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -78,9 +79,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="bootstrap.png"
+                  src="/bootstrap.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -94,9 +95,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="mysql.PNG"
+                  src="/mysql.PNG"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -110,9 +111,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="react.png"
+                  src="/react.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -126,9 +127,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="nextjs.png"
+                  src="/nextjs.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -142,9 +143,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="tailwind.png"
+                  src="/tailwind.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -159,9 +160,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="mongodb.png"
+                  src="/mongodb.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -176,9 +177,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="git.png"
+                  src="/git.png"
                   width="64px"
                   height="64px"
                   alt="/"
@@ -193,9 +194,9 @@ const Skills = () => {
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
-                <img
+              <Image
                   className=" "
-                  src="node.png"
+                  src="/node.png"
                   width="64px"
                   height="64px"
                   alt="/"
