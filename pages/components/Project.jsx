@@ -5,14 +5,14 @@ const Project = () => {
   return (
     <div id="project" className="w-full">
       <div className="max-w-[1240px] mx-auto px-2 py-16">
-        <p className="text-xl tracking items-center uppercase text-[#fd7e14]">
+        <p className="text-2xl tracking items-center uppercase text-[#fd7e14]">
           Projects{" "}
         </p>
         <h2 className="py-4"> What I've Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <Projectitems
-            title="Phone Finder"
-            backgroundImg="charger.jpg"
+            title="Iphoundit"
+            backgroundImg="iphoundit.png"
             projectUrl="/Property"
           />
         </div>

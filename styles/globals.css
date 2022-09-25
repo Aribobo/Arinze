@@ -6,7 +6,7 @@ html{
   scroll-behaviour:smooth;
 }
 body{
-  @apply bg-[#ecf0f3] text-[#1f2937] tracking-wide
+  @apply bg-[#d7c69d] text-gray-800 tracking-wide
  }
   h1,h2,h3,h4,h5,h6{
     @apply font-bold
@@ -18,9 +18,9 @@ body{
    @apply text-3xl sm:text-4xl 
   }
 li{
-  @apply cursor-pointer
+  @apply cursor-pointer 
 }
 button{
-  @apply shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white
+  @apply shadow-xl shadow-gray-700 rounded-xl uppercase bg-gradient-to-r from-[#fd7e14] to-[#1e1e20] text-white
 }
   }

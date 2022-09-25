@@ -4,7 +4,7 @@ const Skills = () => {
   return (
     <div id="skills" className="w-full lg:h-screen p-2">
       <div className="max-w-[1240px] mx-auto flex flex-col justify-center h-ful">
-        <p className="text-xl tracking-widest uppercase text-[#fd7e14]">
+        <p className="text-2xl tracking-widest uppercase text-[#fd7e14]">
           {" "}
           Skills
         </p>
@@ -161,14 +161,14 @@ const Skills = () => {
               <div className="m-auto">
                 <img
                   className=" "
-                  src="github.png"
+                  src="mongodb.png"
                   width="64px"
                   height="64px"
                   alt="/"
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>GITHUB</h3>
+                <h3>MONGO DB</h3>
               </div>
             </div>
           </div>
