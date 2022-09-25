@@ -19,7 +19,7 @@ const Main = () => {
           <button className="px-8 py-2 mt-4 mb-4 mr-4">View Projects</button>
           </Link>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
-            <a href="https://www.linkedin.com/in/arinze-stanley-582627135"><div className="rounded-full shadow-lg shadow-gray-700 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
+            <a href="https://www.linkedin.com/in/ArinzeStanley"><div className="rounded-full shadow-lg shadow-gray-700 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
              <FaLinkedinIn  size={25} />
             </div>
             </a>

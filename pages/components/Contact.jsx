@@ -43,7 +43,7 @@ const Contact = () => {
                 <p className="uppercase pt-8 text-[#fd7e14]  text-bold  text-xl">Connect With Me</p>
               </div>
               <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
-              <a href="https://www.linkedin.com/in/arinze-stanley-582627135">
+              <a href="https://www.linkedin.com/in/ArinzeStanley">
                 <div className="rounded-full shadow-lg shadow-gray-700 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
                   <FaLinkedinIn />
                 </div>
