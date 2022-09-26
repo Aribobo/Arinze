@@ -3,12 +3,24 @@ import Image from "next/image";
 import Link from "next/link";
 import { AiOutlineClose, AiOutlineMenu, AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaGithub,FaTwitter } from "react-icons/fa";
+
+import { useRouter } from "next/router";
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const [shadow, setShadow] = useState(false);
   const [NavBg, setNavBg] = useState("#d7c69d");
   const [LinkColor, setLinkColor] = useState("#1e1e20");
- 
+  const router = useRouter();
+
+  useEffect(() => {
+    if (router.asPath === "/Property" || router.asPath) {
+      setNavBg("#d7c69d");
+      setLinkColor("#1e1e20");
+    } else {
+      setNavBg("#d7c69d");
+      setLinkColor("#1e1e20");
+    }
+  }, [router]);
 
   const handleNav = () => {
     setNav(!nav);
@@ -34,14 +46,14 @@ const Navbar = () => {
       }
     >
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
-        <Link href="/#home">
+        <Link href="/">
           <p className="text-gray-800 font-bold text-4xl pb-6 cursor-pointer hover:scale-105 ease-in duration-300">
             Ari<span className="text-[#fd7e14]">nze</span>
           </p>
         </Link>
         <div>
           <ul style={{ color: `${LinkColor}` }} className="hidden md:flex">
-            <Link href="/#home">
+            <Link href="/">
               <li className="ml-10 text-md  uppercase hover:border-b">Home</li>
             </Link>
             <Link href="/#about">
@@ -83,7 +95,7 @@ const Navbar = () => {
         >
           <div>
             <div className="flex w-full items-center justify-between">
-              <Link href="/#home">
+              <Link href="/">
                 <p className=
                 "text-gray-800 font-bold text-4xl cursor-pointer hover:scale-105 ease-in duration-300 pb-6"onClick={() => setNav(false)}>
                   Ari<span className="text-[#fd7e14]">nze</span>
