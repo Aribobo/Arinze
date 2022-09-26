@@ -13,7 +13,7 @@ const Navbar = () => {
   const router = useRouter();
 
   useEffect(() => {
-    if (router.asPath === "/Propert" || router.asPath === "/Twitch") {
+    if (router.asPath === "/Property" || router.asPath === "/Twitch") {
       setNavBg("#d7c69d");
       setLinkColor("#1e1e20");
     } else {
