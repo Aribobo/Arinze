@@ -16,7 +16,7 @@ const Main = () => {
           Let&apos;s Build And Deploy
           </p>
           <Link href="/#project">
-          <button className="px-8 py-2 mt-4 mb-4 mr-4">View Projects</button>
+          <button className="px-8 py-2 mt-4 mb-4 mr-4 text-[#d7c69d]">View Projects</button>
           </Link>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a href="https://www.linkedin.com/in/ArinzeStanley"><div className="rounded-full shadow-lg shadow-gray-700 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
