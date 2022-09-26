@@ -19,11 +19,11 @@ const Projectitems = ({ title, backgroundImg, projectUrl }) => {
           {title}
         </h3>
        <br/>
-        <Link href={projectUrl}>
+        {/* <Link href={projectUrl}>
           <p className="text-center py-3 rounded-lg bg-[#d7c69d] text-gray-700 font-bold">
             More Info
           </p>
-        </Link>
+        </Link> */}
       </div>
     </div>
   );
