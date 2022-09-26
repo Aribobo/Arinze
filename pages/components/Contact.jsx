@@ -65,8 +65,8 @@ const Contact = () => {
               </div>
               <div className="flex flex-col justify-center items-center text-center  p-5 bg-[#d7c69d] pb-4">
                 <h4 className=" text-gray-800 font-semibold text-xl">
-                  Made with ❤ by
-                  <span className=" font-semibold">
+                 
+                Made with ❤ by <span className=" font-semibold">  
                     Arinze <span className="text-[#fd7e14]">Stanley</span>
                   </span>
                 </h4>
