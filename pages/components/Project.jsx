@@ -13,7 +13,7 @@ const Project = () => {
           <Projectitems
             title="Iphoundit"
             backgroundImg="iphoundit.png"
-            projectUrl="/Property"
+            projectUrl="Property"
           />
         </div>
       </div>

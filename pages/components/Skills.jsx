@@ -9,7 +9,7 @@ const Skills = () => {
           
           Skills
         </p>
-        <h2 className="py-4 ">What i can do</h2>
+        <h2 className="py-4 ">What I Can Do</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="p-6  shadow-xl rounded-xl hover:scale-105 ease in duration-300">
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
@@ -18,7 +18,7 @@ const Skills = () => {
                   className=" "
                   src="/html.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -35,7 +35,7 @@ const Skills = () => {
                   className=" "
                   src="/css.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -51,7 +51,7 @@ const Skills = () => {
                   className=" "
                   src="/javascript.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -67,7 +67,7 @@ const Skills = () => {
                   className=" "
                   src="/php.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -83,7 +83,7 @@ const Skills = () => {
                   className=" "
                   src="/bootstrap.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -99,7 +99,7 @@ const Skills = () => {
                   className=" "
                   src="/mysql.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -115,12 +115,12 @@ const Skills = () => {
                   className=" "
                   src="/react.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>REACT</h3>
+                <h3>REACT JS</h3>
               </div>
             </div>
           </div>
@@ -131,12 +131,12 @@ const Skills = () => {
                   className=" "
                   src="/nextjs.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>NEXT</h3>
+                <h3>NEXT JS</h3>
               </div>
             </div>
           </div>
@@ -147,12 +147,12 @@ const Skills = () => {
                   className=" "
                   src="/tailwind.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>TAILWIND</h3>
+                <h3>TAILWIND </h3>
               </div>
             </div>
           </div>
@@ -164,7 +164,7 @@ const Skills = () => {
                   className=" "
                   src="/mongodb.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -181,7 +181,7 @@ const Skills = () => {
                   className=" "
                   src="/git.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
@@ -198,12 +198,12 @@ const Skills = () => {
                   className=" "
                   src="/node.png"
                   width="64px"
-                  height="64px"
+                  height="60px"
                   alt="/"
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>NODE </h3>
+                <h3>NODE JS</h3>
               </div>
             </div>
           </div>

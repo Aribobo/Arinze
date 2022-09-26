@@ -13,7 +13,7 @@ const Property = () => {
           <br />
           
           <p>
-            Iphoundit is a startup real estate website that helps individuals with property listings such as 
+            Iphoundit is a startup Real Estate website that helps individuals with property listings such as 
             House for rent, House for sale, Shops to let and Lands for sale.
            
             </p>
@@ -26,7 +26,7 @@ const Property = () => {
           </p>
           <br />
           <p>
-           Hey Hey sorry!! the buttons below(Demo and Code) is not functional as Iphoundit is under production
+           Hey Hey sorry!! the buttons below (Demo and Code) is not functional as Iphoundit is under production.
             <br />
           Keep visiting as it&apos;s on track.
           </p>

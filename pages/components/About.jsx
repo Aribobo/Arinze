@@ -6,16 +6,20 @@ const About = () => {
     <div id="about" className="w-full md:h-full p-2 flex items-center py-16">
       <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8 text-2xl">
         <div className="col-span-2">
-          <h2 className="py-4 text-[#fd7e14] text-2xl">Who am I?</h2>
+        <p className="text-2xl tracking-widest uppercase text-[#fd7e14]">
+          
+          About
+        </p>
+        <h2 className="py-4 text-gray-700">Who I Am</h2>
           <p className="py-2 text-gray-800">
-            I am a fullstack developer who focuses on deveopment of great
-            product for both my personal startups and organization across the
+            I am a Fullstack Developer who focuses on deveopment of great
+            product for both my startups and organizations across the
             world.
           </p>
           <p className="py-2 text-gray-800">
-            After 5 Years into website development my main focus now is building
-            cutting edge user experience with mordern tools like serverless
-            across all industry.
+            After 5 years in Website Development my main focus now is building
+            Cutting Edge user experience with modern tools like Serverless
+            across all industries.
           </p>
          
         </div>
@@ -27,7 +31,7 @@ flex-items-center justify-center p-4 hover:scale-105 ease-in duration-300"
             className="rounded-xl"
             src="/Authentication.png"
             width={700}
-            height={400}
+            height={450}
             alt="/"
           />
         </div>

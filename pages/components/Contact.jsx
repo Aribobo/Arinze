@@ -15,7 +15,7 @@ const Contact = () => {
           Contact
         </p>
 
-        <h2 className="py-4">Get in Touch</h2>
+        <h2 className="py-4">Get In Touch</h2>
         <div className="grid lg:grid-cols-2 gap-8">
           {/*left*/}
 
@@ -28,7 +28,7 @@ const Contact = () => {
                 <h2 className="py-4">
                   Arinze <span className="text-[#fd7e14]">Stanley</span>
                 </h2>
-                <p className="text-2xl">Full Stack Developer</p>
+                <p className="text-2xl">Fullstack Developer</p>
                 <p className="py-2 text-2xl">
                   {" "}
                   I am available for freelance or full time position.
