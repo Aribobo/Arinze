@@ -6,7 +6,7 @@ const Property = () => {
     <div className="w-full">
       <div className="max-w-[1240px] max-auto p-2 grid md:grid-cols-5 gap-6 pt-20 px-4">
         <div className="col-span-4 text-xl">
-          <h2 className=" text-gray-700 ">Project</h2>
+          <h2 className=" text-gray-800 ">Project</h2>
           <br />
           <p className="text-[#fd7e14] text-2xl">Overview</p>
 
