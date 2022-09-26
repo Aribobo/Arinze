@@ -26,13 +26,13 @@ const Property = () => {
           </p>
           <br />
           <p>
-           Hey Hey sorry!! the buttons below (Demo and Code) is not functional as Iphoundit is under production.
+           Hey Hey sorry!! the (Demo) button below is not functional as Iphoundit is under production.
             <br />
           Keep visiting as it&apos;s on track.
           </p>
           <br />
           <button className="px-8 py-2 mt-4 mr-8 ">Demo</button>
-          <button className="px-8 py-2 mt-4 mr-4">Code</button>
+          <a href="https://github.com/Aribobo/My-portfolio"><button className="px-8 py-2 mt-4 mr-4">Code</button></a>
         </div>
         <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-700 rounded-xl p-4 text-md">
           <div className="p-2">
