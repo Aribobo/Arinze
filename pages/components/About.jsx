@@ -12,12 +12,12 @@ const About = () => {
         </p>
         <h2 className="py-4 text-gray-800">Who I Am</h2>
           <p className="py-2 text-gray-800">
-            I am a Fullstack Developer who focuses on deveopment of great
+            I am a Full Stack Developer who focuses on deveopment of great
             product for both my startups and organizations across the
             world.
           </p>
           <p className="py-2 text-gray-800">
-            After 5 years in Website Development my main focus now is building
+            After 5 years in Website Development, my main focus now is building
             Cutting Edge user experience with modern tools like Serverless
             across all industries.
           </p>
