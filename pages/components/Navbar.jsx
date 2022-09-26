@@ -110,7 +110,7 @@ const Navbar = () => {
             </div>
             <div className="my-4">
               <p className="w-[85%] md:w-[90%] py-4 text-xl">
-                {" "}
+                
                 Let&apos;s Build And Deploy
               </p>
             </div>
@@ -145,7 +145,7 @@ const Navbar = () => {
             </ul>
             <div className="pt-20 ">
               <p className="uppercase tracking-widest text-[#fd7e14] text-xl">
-                Let's Connect
+                Let&apos;s Connect
               </p>
               <div
                 div
