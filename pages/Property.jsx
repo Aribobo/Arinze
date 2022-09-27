@@ -31,8 +31,8 @@ const Property = () => {
           Keep visiting as it&apos;s on track.
           </p>
           <br />
-          <button className="px-8 py-2 mt-4 mr-8 ">Demo</button>
-          <a href="https://github.com/Aribobo/My-portfolio"><button className="px-8 py-2 mt-4 mr-4">Code</button></a>
+          <button className="px-8 py-2 mt-4 mr-8 text-[#d7c69d] ">Demo</button>
+          <a href="https://github.com/Aribobo/My-portfolio"><button className="px-8 py-2 mt-4 mr-4 text-[#d7c69d]">Code</button></a>
         </div>
         <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-700 rounded-xl p-4 text-md">
           <div className="p-2">

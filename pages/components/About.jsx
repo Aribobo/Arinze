@@ -4,15 +4,15 @@ import Image from "next/image";
 const About = () => {
   return (
     <div id="about" className="w-full md:h-full p-2 flex items-center py-16">
-      <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8 text-2xl">
+      <div className="max-w-[1240px] m-auto md:grid grid-cols-3 gap-8 text-2xl px-3">
         <div className="col-span-2">
         <p className="text-2xl tracking-widest uppercase text-[#fd7e14]">
           
           About
         </p>
-        <h2 className="py-4 text-gray-800">Who I Am</h2>
+        <h2 className="py-4 text-gray-700">Who I Am</h2>
           <p className="py-2 text-gray-800">
-            I am a Full Stack Developer who focuses on deveopment of great
+            I am a Full Stack Developer who focuses on development of great
             product for both my startups and organizations across the
             world.
           </p>
