@@ -17,7 +17,7 @@ const Project = () => {
           />
            <Projectitems
             title="Lucid-Dashboard"
-            backgroundImg="dashboard.png"
+            backgroundImg="dashboard1.png"
             projectUrl="Dashboard"
           />
         </div>
