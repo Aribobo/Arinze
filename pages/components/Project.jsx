@@ -15,6 +15,11 @@ const Project = () => {
             backgroundImg="iphoundit.png"
             projectUrl="Property"
           />
+           <Projectitems
+            title="Lucid-Dashboard"
+            backgroundImg="dashboard.png"
+            projectUrl="Dashboard"
+          />
         </div>
       </div>
     </div>
