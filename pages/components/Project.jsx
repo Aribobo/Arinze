@@ -14,10 +14,10 @@ const Project = () => {
             title="Iphoundit"
             backgroundImg="iphoundit.png"
             projectUrl="Property"
-          />
+          />-
            <Projectitems
             title="Lucid-Dashboard"
-            backgroundImg="skin.png"
+            backgroundImg="css.png"
             projectUrl="Dashboard"
           />
         </div>
